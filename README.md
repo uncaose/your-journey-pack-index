@@ -8,7 +8,7 @@ Catalog URL: https://raw.githubusercontent.com/uncaose/your-journey-pack-index/m
 
 The catalog is operational and intentionally empty. No pack has completed the public licensing and quality publication gate yet. This does not remove the application’s bundled basic learning packs. No application source, personal data, recordings, credentials or model weights are hosted here.
 
-In existing app builds, open the community pack catalog settings and enter the catalog URL above. Automatic default selection is pending application integration; creating this repository does not update installed apps.
+In existing released app builds, open the community pack catalog settings and enter the catalog URL above. The application source now uses this address by default on first use (commit eca7571d4); saved custom addresses and explicit empty settings remain unchanged. This source change is not yet a published application release and does not update installed apps.
 
 ## Add or update a pack
 
